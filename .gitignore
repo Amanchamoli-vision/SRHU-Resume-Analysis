@@ -33,3 +33,5 @@ Thumbs.db
 run.txt
 
 recruitment_data/*
+
+.env
